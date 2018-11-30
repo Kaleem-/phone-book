@@ -1,4 +1,4 @@
-package bcu.changeme.phonebook.model;
+package bcu.peanuthead.phonebook.model;
 
 /*
  * This exception is thrown when trying to add an entry to the phone book,

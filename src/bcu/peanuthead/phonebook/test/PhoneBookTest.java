@@ -1,8 +1,13 @@
-package bcu.changeme.phonebook.test;
+package bcu.peanuthead.phonebook.test;
 
-import bcu.changeme.phonebook.model.*;
+import bcu.peanuthead.phonebook.model.*;
 
+import bcu.peanuthead.phonebook.model.AlreadyPresentException;
+import bcu.peanuthead.phonebook.model.NotPresentException;
+import bcu.peanuthead.phonebook.model.PhoneBook;
+import bcu.peanuthead.phonebook.model.PhoneBookEntry;
 import org.junit.Test;
+
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
 

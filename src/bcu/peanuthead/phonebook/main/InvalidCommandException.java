@@ -1,4 +1,4 @@
-package bcu.changeme.phonebook.main;
+package bcu.peanuthead.phonebook.main;
 
 /*
  * This exception is thrown when failing to parse a command.
